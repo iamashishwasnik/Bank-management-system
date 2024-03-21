@@ -3,6 +3,8 @@
 #### Note:
 * This project is completely for learning purposes and does not represent any official banking entity. The database schema, sample data, and SQL queries provided here are fictional and are intended solely for educational use. They do not reflect any real-world banking operations or data associated with any financial institution. Use this project to enhance your understanding of SQL database management systems and to practice querying relational databases in a simulated banking environment.
 
+![ER_Model](https://github.com/iamashishwasnik/Bank-management-system/blob/main/Picture1.png)
+
 ### Description:
 This repository contains SQL scripts for creating and populating tables for an ICIC Bank management system. The SQL queries create tables for account types, departments, bank details, job details, employees, and customers. Additionally, it includes sample data insertion and a set of SQL queries to retrieve information based on various criteria, such as employee details, department information, customer details, and more. The repository serves as a reference for building and querying a database system for managing bank operations within the ICIC Bank context.
 
