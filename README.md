@@ -1,7 +1,7 @@
 # Bank-management-system
 
 #### Note:
-* This project is completely for learning purposes and does not belong to any official ICICI Bank entity. The database schema, sample data, and SQL queries provided here are fictional and are intended solely for educational use. They do not represent or reflect any real-world banking operations or data associated with ICICI Bank or any other financial institution. Use this project to enhance your understanding of SQL database management systems and to practice querying relational databases in a simulated banking environment.
+* This project is completely for learning purposes and does not represent any official banking entity. The database schema, sample data, and SQL queries provided here are fictional and are intended solely for educational use. They do not reflect any real-world banking operations or data associated with any financial institution. Use this project to enhance your understanding of SQL database management systems and to practice querying relational databases in a simulated banking environment.
 
 ### Description:
 This repository contains SQL scripts for creating and populating tables for an ICIC Bank management system. The SQL queries create tables for account types, departments, bank details, job details, employees, and customers. Additionally, it includes sample data insertion and a set of SQL queries to retrieve information based on various criteria, such as employee details, department information, customer details, and more. The repository serves as a reference for building and querying a database system for managing bank operations within the ICIC Bank context.
