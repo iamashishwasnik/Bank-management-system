@@ -14,6 +14,17 @@ This repository contains SQL scripts for creating and populating tables for an I
 * Views creation for simplified access to commonly needed data subsets.
 * Updates and modifications to existing data within the database tables.
 
+## To create an ER model using MySQL Workbench (mwb file) for this file:
+
+* Open MySQL Workbench.
+* Create a new EER model.
+* Design entities (tables) and relationships based on the provided database schema.
+* Add attributes and constraints.
+* Generate SQL scripts.
+* Execute the scripts in your SQL environment.
+* Review and modify as needed.
+###### By following these steps, you can create an ER model to represent the database schema visually and generate SQL scripts to implement it.
+
 ## Usage:
 
 * Clone the repository to your local machine.
